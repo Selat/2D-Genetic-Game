@@ -1,0 +1,12 @@
+*.user
+*.o
+*.exe
+*.autosave
+*.save
+Makefile
+Makefile.Debug
+Makefile.Release
+object_script.Tanks.Debug
+object_script.Tanks.Release
+Tanks.pro.user
+Tanks.pro.user.*
